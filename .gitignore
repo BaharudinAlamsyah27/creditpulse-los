@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build outputs
+dist/
+dist-ssr/
+*.local
+
+# Environment & IDE
+.env
+.env.*
+.vercel
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+Thumbs.db
+*.log
